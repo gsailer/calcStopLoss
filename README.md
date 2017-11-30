@@ -1,10 +1,10 @@
 # calcStopLoss
 Little tool to calculate a stop-loss-target and the potential loss.
 ## Usage
-	Usage: csl [risk in percent] [price/share] [number of shares]
+	csl [risk in percent] [price/share] [number of shares]
 or
 	
-	Usage: calcStopLoss [risk in percent] [price/share] [number of shares]
+	calcStopLoss [risk in percent] [price/share] [number of shares]
 
 ## Installation
 Clone the github repository

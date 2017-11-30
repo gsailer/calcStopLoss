@@ -7,8 +7,6 @@
     "python",
     "stop-loss"
   ],
-  "author": "Gabriel Sailer <gabriel.sailer@riseup.net> (http://raketenkraft.net/)",
-  "license": "MIT",
   "bin": {
     "calcStopLoss": "./bin/calcStopLoss.py",
     "csl": "./bin/calcStopLoss.py"
